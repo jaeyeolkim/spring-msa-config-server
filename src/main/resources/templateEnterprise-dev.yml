@@ -1,5 +1,5 @@
 config:
-  profile: sht
+  profile: ebt
   message: templateEnterprise(dev)
 
 Globals:
