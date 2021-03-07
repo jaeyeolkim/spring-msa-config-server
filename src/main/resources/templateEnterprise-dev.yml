@@ -1,5 +1,5 @@
 config:
-  profile: ebt
+  profile: ebt2-rabbitmq-confirm # ebt -> ebt2 변경 후 "curl -X POST http://localhost:9265/actuator/refresh" 하여 client 환경 값 변경
   message: templateEnterprise(dev)
 
 Globals:
